@@ -1,0 +1,28 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+.Dashboard {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+}
+
+.WidgetItem {
+  border: 1px solid #ababab;
+  margin: 2px;
+  border-radius: 5px;
+  color: purple;
+  width: 24%;
+  text-align: center;
+}
+
+.CarouselDiv {
+  margin-top: 10px;
+  border: 1px solid #ababab;
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  text-align: center;
+}
